@@ -32,7 +32,7 @@ const BASE_SANDBOX_URL = "https://sandbox-gateway.thesmilepay.com";
  * PRODUCTION URL. From docs API. <br>
  * If you pass the sandbox docking, you can switch the URL to production.
  */
-const BASE_URL = "https://sandbox-gateway.thesmilepay.com";
+const BASE_URL = "https://gateway.thesmilepay.com";
 
 /**
  * AccessToken_API.
